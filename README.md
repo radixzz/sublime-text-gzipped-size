@@ -1,2 +1,2 @@
-# sublime-text-gzipped-size
-# sublime-text-gzipped-size
+# ST - GZip File Info
+Plugin that shows the current gzipped size of the working file at the status bar. Currently only tested in ST3
